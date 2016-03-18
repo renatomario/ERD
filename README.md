@@ -12,17 +12,17 @@ The objective of this first prototype / proof of concept, is to share one of the
 
 As a meaningful test pattern, search in Google for: \<**tree diagrams and figure probabilities of events**\>. Here is the resulting Google page:
 
-![Initial Google results page.](screenshots/ERDScreenshot1.png "Initial Google results page.")
+![Initial Google results page.](screenshots/ERDScreenshot1.PNG "Initial Google results page.")
 
 Following a mouse-click on the ERD extension button (top right), custom rich snippets (two in this particular case) are injected in the previous results-page. They contain expansion buttons with “volume indicators”, plus the available (LRMI) metadata (two screenshots):
 
-![Injected snippet (1).](screenshots/ERDScreenshot2.png "Injected snippet with expansion functionaities (1).")
+![Injected snippet (1).](screenshots/ERDScreenshot2.PNG "Injected snippet with expansion functionaities (1).")
 
-![Injected snippet (2).](screenshots/ERDScreenshot3.png "Injected snippet with expansion functionaities (2).")
+![Injected snippet (2).](screenshots/ERDScreenshot3.PNG "Injected snippet with expansion functionaities (2).")
 
 Clicking on one of the available expansion buttons, a new window is displayed, containing related resources ranked by similarity, with relevant (LRMI) metadata. Of course it also contains links to directly navigate to the educational resources of interest:
 
-![Suggested additional resources.](screenshots/ERDScreenshot4.png "Suggested additional resources.")
+![Suggested additional resources.](screenshots/ERDScreenshot4.PNG "Suggested additional resources.")
 
 
 >### **Test patterns**
