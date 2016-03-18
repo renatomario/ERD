@@ -1,0 +1,30 @@
+.mySnippet {
+	background-color: yellow;
+	font-weight: bold;
+	margin:5px 0px;
+	display:table;
+}
+.snLeft {
+	display: table-cell;
+	padding: 3px;
+	width: 15%;
+}
+.snRight {
+	display: table-cell;
+	padding: 3px;
+	width: 85%;
+}
+.myRow {
+	display:table-row;
+}
+.expansButtons {
+	background-color: greenyellow;
+	font-weight: bold;
+	text-align: right;
+	padding-top: 20px; 
+	padding-bottom: 20px;
+}
+.resSnippet{
+	border:2px solid black;
+	margin:20px;
+}
