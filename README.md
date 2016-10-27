@@ -1,5 +1,10 @@
 # **ERD**: Educational Resources Discoverer
 
+***Note:*** 
+Following an evaluation with actual teachers, this prototype has been redesigned.
+Please check the ***superseding prototype*** [RepExp (Replicator-Expander)](https://github.com/renatomario/RepExp).
+_ _ _ _ _ _ _ _ _ _
+
 ERD (Educational Resources Discoverer) is a Chrome™ browser extension that injects custom-rich-snippets in Google™ results pages, containing  “***transparent***” expansion functionalities to (or suggestions for) “***similar***” resources (in addition to LRMI metadata).
  
 It is “***transparent***”, in the sense that it makes use of (sometimes large numbers of) standards alignments without the need for users to be aware of them. Among other advantages, this makes it possible to reuse the considerable efforts in aligning resources to educational standards, as crowdsourced high-quality curated data, in Countries where formal educational standards are not used.
