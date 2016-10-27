@@ -1,11 +1,11 @@
 {
    "manifest_version": 2,
-   "name": "ERD",
+   "name": "Injector",
    "version" : "1.0",
 
    "browser_action": {
-      "default_icon": "icon.png",
-	  "default_title": "Educational Resources Discoverer"
+      "default_icon": "syringe48.png",
+	  "default_title": "Injector"
    },
    
    "background": {
@@ -23,7 +23,7 @@
    
    "default_locale": "en_US",
    "icons": {
-      "128": "icon.png"
+      "48": "syringe48.png"
    },
 
 
